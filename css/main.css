@@ -1,0 +1,23 @@
+body {
+   font-family: sans-serif;
+}
+
+#header {
+   padding: 20px 0;
+   background: #CE403A;
+}
+
+.header__logo {
+   font-weight: 700;
+   font-size: 32px;
+   color: #fff;
+}
+
+.header__link {
+   font-size: 18px;
+   color: #fff;
+}
+
+#main {
+   padding: 40px 0;
+}
